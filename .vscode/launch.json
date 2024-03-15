@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/trinhhoangtung/Desktop/Object Oriented Programming/TestAsg1",
+      "program": "/Users/trinhhoangtung/Desktop/Object Oriented Programming/TestAsg1/build/Debug/outDebug"
+    }
+  ]
+}
